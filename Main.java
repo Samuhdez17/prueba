@@ -21,6 +21,6 @@ public class Main {
             System.out.println("Tu resultado es " + Resultado);
         }
 
-jeje soy hacker esto esta hackiao
+        System.out.println("Ahora un truco de magia....");
     }
 }
