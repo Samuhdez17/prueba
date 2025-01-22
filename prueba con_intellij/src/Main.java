@@ -22,5 +22,7 @@ public class Main {
         }
 
         System.out.println("Ahora un truco de magia....");
+
+        System.out.println("esto es una prueba para hacer psuh desde intellij");
     }
 }
